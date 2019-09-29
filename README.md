@@ -1,1 +1,1 @@
-# Async-Distributed-SGD
+Simulations for Generalization of Asynchronous SGD
